@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Поточна нотатка</string>
+    <string name="hello_second_fragment">Створення нових нотаток</string>
+
+   <string name="note_text">Введіть текст нотатки</string>
+    <string name="note_create_title">Створення нової нотатки</string>
+    <string name="save">Зберегти</string>
+    <string name="info">Інформація про задачу</string>
+    <string name="completed">Виконана</string>
+    <string name="delete_note_button">Видалення</string>
+
+
+    <string name="float_button">Кнопка, яка стрибає</string>
+    <string name="button_info">Додавання нотаток</string>
+    <string name="failed_info">Фрагмент не знайдено</string>
+    <string name="app_info">Інформація про додаток</string>
+    <string name="home_info">Перехід до списку нотатків</string>
+
+
+
+</resources>
